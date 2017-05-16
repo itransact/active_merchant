@@ -386,9 +386,8 @@ iridium:
     password: PASSWORD
 
 itransact:
-  login: API_ACCESS_USERNAME
-  password: API_ACCESS_KEY
-  gateway_id: GATEWAY_ID
+  api_key:
+  api_secret:
 
 # Working credentials, no need to replace
 iveri:
